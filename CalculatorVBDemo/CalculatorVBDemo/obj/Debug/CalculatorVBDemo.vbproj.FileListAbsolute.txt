@@ -1,0 +1,22 @@
+c:\users\oomoh\documents\visual studio 2013\Projects\CalculatorVBDemo\CalculatorVBDemo\bin\Debug\CalculatorVBDemo.exe.config
+c:\users\oomoh\documents\visual studio 2013\Projects\CalculatorVBDemo\CalculatorVBDemo\bin\Debug\CalculatorVBDemo.exe
+c:\users\oomoh\documents\visual studio 2013\Projects\CalculatorVBDemo\CalculatorVBDemo\bin\Debug\CalculatorVBDemo.pdb
+c:\users\oomoh\documents\visual studio 2013\Projects\CalculatorVBDemo\CalculatorVBDemo\bin\Debug\CalculatorVBDemo.xml
+c:\users\oomoh\documents\visual studio 2013\Projects\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.CalcForm.resources
+c:\users\oomoh\documents\visual studio 2013\Projects\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.Resources.resources
+c:\users\oomoh\documents\visual studio 2013\Projects\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.vbproj.GenerateResource.Cache
+c:\users\oomoh\documents\visual studio 2013\Projects\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.exe
+c:\users\oomoh\documents\visual studio 2013\Projects\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.xml
+c:\users\oomoh\documents\visual studio 2013\Projects\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.pdb
+C:\Users\oomoh\Documents\Visual Studio 2013\Projects\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\New IT Portfolio\BA Folder\Visual Studios Projects(.Net)\CalculatorVBDemo\CalculatorVBDemo\bin\Debug\CalculatorVBDemo.exe.config
+C:\Users\Owner\Desktop\New IT Portfolio\BA Folder\Visual Studios Projects(.Net)\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.exe
+C:\Users\Owner\Desktop\New IT Portfolio\BA Folder\Visual Studios Projects(.Net)\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.xml
+C:\Users\Owner\Desktop\New IT Portfolio\BA Folder\Visual Studios Projects(.Net)\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.pdb
+C:\Users\Owner\Desktop\New IT Portfolio\BA Folder\Visual Studios Projects(.Net)\CalculatorVBDemo\CalculatorVBDemo\bin\Debug\CalculatorVBDemo.exe
+C:\Users\Owner\Desktop\New IT Portfolio\BA Folder\Visual Studios Projects(.Net)\CalculatorVBDemo\CalculatorVBDemo\bin\Debug\CalculatorVBDemo.pdb
+C:\Users\Owner\Desktop\New IT Portfolio\BA Folder\Visual Studios Projects(.Net)\CalculatorVBDemo\CalculatorVBDemo\bin\Debug\CalculatorVBDemo.xml
+C:\Users\Owner\Desktop\New IT Portfolio\BA Folder\Visual Studios Projects(.Net)\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\New IT Portfolio\BA Folder\Visual Studios Projects(.Net)\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.CalcForm.resources
+C:\Users\Owner\Desktop\New IT Portfolio\BA Folder\Visual Studios Projects(.Net)\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.Resources.resources
+C:\Users\Owner\Desktop\New IT Portfolio\BA Folder\Visual Studios Projects(.Net)\CalculatorVBDemo\CalculatorVBDemo\obj\Debug\CalculatorVBDemo.vbproj.GenerateResource.Cache
