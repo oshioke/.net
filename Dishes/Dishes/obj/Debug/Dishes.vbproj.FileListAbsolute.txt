@@ -1,0 +1,9 @@
+c:\users\oomoh\documents\visual studio 2013\Projects\Dishes\Dishes\bin\Debug\Dishes.exe.config
+C:\Users\oomoh\Documents\Visual Studio 2013\Projects\Dishes\Dishes\bin\Debug\Dishes.exe
+C:\Users\oomoh\Documents\Visual Studio 2013\Projects\Dishes\Dishes\bin\Debug\Dishes.pdb
+C:\Users\oomoh\Documents\Visual Studio 2013\Projects\Dishes\Dishes\bin\Debug\Dishes.xml
+C:\Users\oomoh\Documents\Visual Studio 2013\Projects\Dishes\Dishes\obj\Debug\Dishes.Resources.resources
+C:\Users\oomoh\Documents\Visual Studio 2013\Projects\Dishes\Dishes\obj\Debug\Dishes.vbproj.GenerateResource.Cache
+C:\Users\oomoh\Documents\Visual Studio 2013\Projects\Dishes\Dishes\obj\Debug\Dishes.exe
+C:\Users\oomoh\Documents\Visual Studio 2013\Projects\Dishes\Dishes\obj\Debug\Dishes.xml
+C:\Users\oomoh\Documents\Visual Studio 2013\Projects\Dishes\Dishes\obj\Debug\Dishes.pdb
